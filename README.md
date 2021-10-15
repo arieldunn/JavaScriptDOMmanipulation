@@ -28,6 +28,7 @@ Click around a bit to find an Easter egg too! 👽
 
 Previews
 
-Basic site: basic_site
+<img width="785" alt="Screen Shot 2021-10-14 at 9 54 10 PM" src="https://user-images.githubusercontent.com/82057838/137419803-b730cf83-fc64-468f-854a-d383d75e1031.png">
 
-Advanced site: advanced_site
+
+<img width="813" alt="Screen Shot 2021-10-14 at 9 54 23 PM" src="https://user-images.githubusercontent.com/82057838/137419823-753f37cb-3617-4b84-bcd9-0f89e77266cd.png">
